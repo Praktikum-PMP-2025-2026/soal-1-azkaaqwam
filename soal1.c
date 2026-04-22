@@ -1,3 +1,12 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2025/2026
+ *   Modul               : 2 - Data Manipulation and External Files
+ *   Hari dan Tanggal    : Rabu, 22 April 2026
+ *   Nama (NIM)          : 13224061
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Mencari nilai idx sum min dan avg dengan menggunakan array
+ * 
+ */
+
 #include <stdio.h>
 
 void SUM(int arr[],int N){
